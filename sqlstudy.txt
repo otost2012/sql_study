@@ -1,0 +1,5 @@
+连接本地sql服务
+1.开启本地sql服务,管理员运行cmd:  net start mysql80 查看本机服务,默认开启
+
+2.管理员命令运行cmd: cd 命令进入mysql server\bin\  运行mysql -h 192.168.0.100 -u user -p
+  输入密码,开启成功
